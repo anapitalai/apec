@@ -1,0 +1,14 @@
+GET http://localhost:3000/users
+
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFuYXBpdGFsYWlAZ21haWwuY29tIiwidXNlcklkIjoiNWZhMGE3YTU5YmMzZDEzYjkxMmZhNmFhIiwiaWF0IjoxNjA0MzY5MDQ0LCJleHAiOjE2MDQzNzI2NDR9.zDkJs6c_1R2J55jBDcMtUZUubV5HWtC_7d5kHPfpklw
+###
+
+POST http://localhost:3000/login
+
+Content-Type: application/json
+
+{
+    "email":"anapitalai@gmail.com",
+    "password":"noGoZone"
+}
+
