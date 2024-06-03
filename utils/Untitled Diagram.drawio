@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T12:42:24.954Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="ctxy23heyqmwQuuvZSDZ" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T12:43:42.531Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="LD6QGo5POZy-mQQCiMRL" version="24.4.6" type="github">
   <diagram name="Page-1" id="W6qxsDa8kERVrcYiyTdX">
     <mxGraphModel dx="1364" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="20" y="160" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="RUmPRM3zO1uusGl0_fEJ-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="20" y="330" width="120" height="120" as="geometry" />
@@ -26,28 +23,34 @@
           <mxGeometry x="25" y="530" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="155" width="120" height="120" as="geometry" />
+          <mxGeometry x="425" y="155" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="325" width="120" height="120" as="geometry" />
+          <mxGeometry x="425" y="325" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="505" width="120" height="120" as="geometry" />
+          <mxGeometry x="425" y="505" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RUmPRM3zO1uusGl0_fEJ-17" value="Agriculture Sector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="185" width="110" height="70" as="geometry" />
+        <mxCell id="RUmPRM3zO1uusGl0_fEJ-17" value="DWH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="185" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RUmPRM3zO1uusGl0_fEJ-18" value="Forestry Sector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="350" width="110" height="70" as="geometry" />
+        <mxCell id="RUmPRM3zO1uusGl0_fEJ-18" value="Data Insights" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RUmPRM3zO1uusGl0_fEJ-19" value="Mining Sector" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="525" width="110" height="70" as="geometry" />
+        <mxCell id="RUmPRM3zO1uusGl0_fEJ-19" value="DL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="525" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="330" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RUmPRM3zO1uusGl0_fEJ-21" value="Workflows" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="355" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RUmPRM3zO1uusGl0_fEJ-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="330" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RUmPRM3zO1uusGl0_fEJ-23" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="360" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
